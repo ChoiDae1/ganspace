@@ -1,0 +1,5 @@
+model_weight file's memory was too big to upload git repo
+So I leave url for downloading model_weight file
+-> https://github.com/ndb796/PyTorch-StyleGAN-Face-Editting/tree/main/weights
+
+If you have some question, send mail to me.
